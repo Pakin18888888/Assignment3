@@ -16,11 +16,9 @@ body {
   width: 90%;
   max-width: 1500px;
   min-height: 600px;
-
   justify-content: center;
   align-items: center;
   gap: 20px;
-
   position: relative;
   scroll-margin-top: 500px;
 }
